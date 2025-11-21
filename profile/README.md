@@ -15,13 +15,18 @@ Rippler helps engineering teams understand the impact of pull requests across co
 
 Built as a distributed microservices platform with Spring Boot, Next.js, and Python, Rippler provides enterprise-grade scalability, security, and observability.
 
+## Checkout Rippler Live!
+- **Production Live**: [https://rippler.hanisntsolo.dev](https://rippler.hanisntsolo.dev)  
+  (Register on Rippler and Check its capabilites.)
+- **Documentation**: [https://rippler-docs.hanisntsolo.dev](https://rippler-docs.hanisntsolo.dev)
+
 ## 🏗️ Architecture
 
 ### System Architecture Diagram
 
 ![Rippler System Architecture](docs/architecture/system-overview.png)
 
-**📊 [View Full Architecture Documentation](docs/architecture/README.md)** | **📖 [Complete Platform Architecture](docs/architecture/COMPLETE_PLATFORM_ARCHITECTURE.md)**
+**📊 [View Full Architecture Documentation](https://rippler-docs.hanisntsolo.dev)** |
 
 The diagram above shows the complete Rippler system architecture including:
 
@@ -100,7 +105,7 @@ Before starting, ensure you have the following installed:
 
 1. **Clone the repository with all submodules:**
 ```bash
-git clone --recurse-submodules https://github.com/hanisntsolo/rippler.git
+git clone --recurse-submodules https://github.com/Citi-Rippler/rippler.git
 cd rippler
 
 # Or if you already cloned without submodules:
@@ -727,7 +732,7 @@ WEBHOOK_SECRET=your_secret_key
 
 1. **First time setup:**
 ```bash
-git clone --recurse-submodules https://github.com/hanisntsolo/rippler.git
+git clone --recurse-submodules https://github.com/Citi-Rippler/rippler.git
 cd rippler
 make init
 ```
