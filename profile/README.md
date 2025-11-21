@@ -1033,15 +1033,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Links
 
-- **Project Repository**: [https://github.com/hanisntsolo/rippler](https://github.com/hanisntsolo/rippler)
+- **Project Repository**: [https://github.com/Citi-Rippler/rippler](https://github.com/Citi-Rippler/rippler)
 - **Organization**: [https://github.com/Citi-Rippler](https://github.com/Citi-Rippler)
-- **Issue Tracker**: [https://github.com/hanisntsolo/rippler/issues](https://github.com/hanisntsolo/rippler/issues)
+- **Issue Tracker**: [https://github.com/Citi-Rippler/rippler/issues](https://github.com/Citi-Rippler/rippler/issues)
 
 ### Support
 
 - 📖 Check the [Documentation](docs/) for guides and references
-- 🐛 Report bugs via [GitHub Issues](https://github.com/hanisntsolo/rippler/issues)
-- 💬 Ask questions in [Discussions](https://github.com/hanisntsolo/rippler/discussions)
+- 🐛 Report bugs via [GitHub Issues](https://github.com/Citi-Rippler/rippler/issues)
+- 💬 Ask questions in [Discussions](https://github.com/Citi-Rippler/rippler/discussions)
 - 📧 Contact the team for security concerns
 
 ## 🙏 Acknowledgments
