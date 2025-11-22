@@ -18,7 +18,7 @@ Built as a distributed microservices platform with Spring Boot, Next.js, and Pyt
 ## Checkout Rippler Live!
 - **Production Live**: [https://rippler.hanisntsolo.dev](https://rippler.hanisntsolo.dev)  
   (Register on Rippler and Check its capabilites.)
-- **Documentation**: [https://rippler-docs.hanisntsolo.dev](https://rippler-docs.hanisntsolo.dev)
+- **Documentation**: [https://docs-rippler.hanisntsolo.dev](https://docs-rippler.hanisntsolo.dev)
 
 ## 🏗️ Architecture
 
@@ -26,7 +26,7 @@ Built as a distributed microservices platform with Spring Boot, Next.js, and Pyt
 
 ![Rippler System Architecture](docs/architecture/system-overview.png)
 
-**📊 [View Full Architecture Documentation](https://rippler-docs.hanisntsolo.dev)** |
+**📊 [View Full Architecture Documentation](https://docs-rippler.hanisntsolo.dev)** |
 
 The diagram above shows the complete Rippler system architecture including:
 
